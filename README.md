@@ -6,4 +6,4 @@ AO-Reports
 - [Code](https://github.com/OpenSourceEcon/DynamicPop)
 
 ### (2) Productivity Differences by Daron Acemoglu and Fabrizio Zilibotti: Replication and Extension
-- [Paper](https://github.com/KI-AO-Collaborations/KI-AO-Papers/blob/master/Housing%20Markets%20and%20Optimal%20Pricing%20Strategy%20Final%20Paper.pdf)
+- [Paper](https://github.com/adamoppenheimer/AO-Reports/blob/master/Productivity%20Differences%20by%20Daron%20Acemoglu%20and%20Fabrizio%20Zilibotti%20-%20Replication%20and%20Extension.pdf)
